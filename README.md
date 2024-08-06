@@ -138,8 +138,8 @@
 
 <br/>
 
-START_SECTION:waka
-END_SECTION:waka
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <div align="center">
