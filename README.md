@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=2700&lines=Code,+coffee,+and+creativity+inside!;Namaste🙏+I'm+Anubhav;Explore,+fork,+star,+and+repeat!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Code,+coffee,+and+creativity+inside!;Namaste🙏+I'm+Anubhav;Explore,+fork,+star,+and+repeat!;" />
 </h1>
 <h3 align="center">Full-Stack Developer | Passionate About Exploring Cutting-Edge Technologies</h3>
 <hr/>
