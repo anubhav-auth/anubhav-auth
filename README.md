@@ -6,13 +6,13 @@
 
 
 ### About Me
- #### 🧠 **Final year IT undergrad pursuing my Bachelor's Degree in Computer Science and Engineering.**
+ #### 🧠 **Second-year tech enthusiast chasing a Bachelor's in Computer Science and Engineering.**
  #### 🌱 **Currently Learning**: Spring Boot, Android, APIs related stuff.
- #### ⚡ **Fun Fact**: I love to play FIFA & Solve DSA Problems
+ #### ⚡ **Fun Fact**: I love to play Games & Solve DSA Problems
 
 <br/>
 <hr/>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <div align="center">
 <table>
   <tr>
