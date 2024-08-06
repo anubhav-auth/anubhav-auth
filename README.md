@@ -77,9 +77,9 @@
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayshaw01&" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhayshaw01&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=abhayshaw01&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav-auth&" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhav-auth&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anubhav-auth&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <br/>
