@@ -19,7 +19,7 @@
   <tr>
     <td align="center" width="96">
       <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="background-color: white; border-radius: 5px;"/>
       </a>
     </td>
     <td align="center" width="96">
@@ -140,7 +140,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" style="background-color: white; border-radius: 5px;"/> 
       </a> 
     </td>
 	   <td align="center" width="96">
