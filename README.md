@@ -9,6 +9,7 @@
  #### 🧠 **Second-year tech enthusiast chasing a Bachelor's in Computer Science and Engineering.**
  #### 🌱 **Currently Learning**: Spring Boot, Android, APIs related stuff.
  #### ⚡ **Fun Fact**: I love to play Games & Solve DSA Problems
+ #### 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HSNCH1k2X6ndceW5ClK2ThUR9txQuDjX/view?usp=sharing)
 
 <br/>
 <hr/>
