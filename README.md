@@ -142,8 +142,8 @@
       </a> 
     </td>
     <td align="center" width="96">
-      <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> 
+      <a href="https://www.sonarsource.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://assets-eu-01.kc-usercontent.com/e297e7d9-2d57-0116-9f64-6f95a81b63c5/aedb7b5e-8556-4840-a69c-bce396891b0e/sonar-logo-horizontal-dark-bg.svg?w=170&h=42&auto=format&fit=crop" alt="Sonar" width="40" height="40"/> 
       </a>
     </td>
     <td align="center" width="96">
