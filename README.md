@@ -17,14 +17,14 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="96" style="background-color: white; border-radius: 5px;">
+    <td align="center" width="96">
       <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
       </a>
     </td>
     <td align="center" width="96">
       <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+        <img src="https://img.icons8.com/color/48/bash.png" alt="bash" width="40" height="40"/>
       </a>
     </td>
     <td align="center" width="96">
@@ -140,7 +140,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" style="background-color: white; border-radius: 5px;"/> 
+        <img src="https://img.icons8.com/nolan/64/apache-kafka.png" alt="kafka" width="40" height="40"/> 
       </a> 
     </td>
 	   <td align="center" width="96">
