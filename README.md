@@ -71,6 +71,11 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
       </a>
     </td>
+     <td align="center" width="96">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+      </a>
+    </td>
   </tr>
 
   
@@ -95,11 +100,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
       </a>
     </td>
-    <td align="center" width="96">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-      </a>
-    </td>
+   
   </tr>
 
   
@@ -157,11 +158,6 @@
   <td>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-  </td>
-  <td>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
     </a> 
   </td>
   <td>
