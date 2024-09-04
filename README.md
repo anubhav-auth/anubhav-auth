@@ -174,16 +174,6 @@
 
 <br/>
 
-<!--START_SECTION:waka-->
-
-```rust
-From: 27 August 2024 - To: 03 September 2024
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 
 <div align="center">
   <h2>🐱‍👤 My Contributions 🐱‍👤</h2>
