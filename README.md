@@ -40,15 +40,17 @@
 
 
 <br/>
-
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav-auth&" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhav-auth&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=anubhav-auth&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<br/>
+<h2 align="center"> Github Statistics 📈</h2>
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhav-auth&theme=dark&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-auth&layout=compact&theme=dark&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=anubhav-auth&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</a><br><br>
 
 
 <div align="center">
