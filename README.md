@@ -28,21 +28,6 @@
 
 ### Other Development Tools 🛠 
 [![My Other Development Tools](https://skillicons.dev/icons?i=docker,figma,git,github,postman,blender,linux)](https://skillicons.dev)
-
-
-
-<!--START_SECTION:waka-->
-
-```rust
-From: 02 October 2024 - To: 09 October 2024
-
-Jupyter          4 hrs 1 min     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀   76.59 %
-Python           42 mins         ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.54 %
-Kotlin           17 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.48 %
-Other            9 mins          ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.00 %
-```
-
-<!--END_SECTION:waka-->
  
 
 
@@ -59,6 +44,19 @@ Other            9 mins          ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=anubhav-auth&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </a><br><br>
+
+<!--START_SECTION:waka-->
+
+```rust
+From: 02 October 2024 - To: 09 October 2024
+
+Jupyter          4 hrs 1 min     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀   76.59 %
+Python           42 mins         ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.54 %
+Kotlin           17 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.48 %
+Other            9 mins          ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.00 %
+```
+
+<!--END_SECTION:waka-->
 
 
 <div align="center">
