@@ -7,7 +7,7 @@
 
 ### About Me
  #### 🧠 **Second-year tech enthusiast chasing a Bachelor's in Computer Science and Engineering.**
- #### 🌱 **Currently Learning**: Python libraries & Machine learning
+ #### 🌱 **Currently Learning**: GraphQL, Python libraries & Machine learning
  #### ⚡ **Fun Fact**: I love to play Games & Solve DSA Problems
  #### 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ff_gZfE1f2MA03SOE59LEk7irbRxe4YZ/view?usp=sharing)
 
