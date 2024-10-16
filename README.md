@@ -7,7 +7,7 @@
 
 ### About Me
  #### 🧠 **Second-year tech enthusiast chasing a Bachelor's in Computer Science and Engineering.**
- #### 🌱 **Currently Learning**: GraphQL, Python libraries & Machine learning
+ #### 🌱 **Currently Learning**: Python libraries & Machine learning
  #### ⚡ **Fun Fact**: I love to play Games & Solve DSA Problems
  #### 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ff_gZfE1f2MA03SOE59LEk7irbRxe4YZ/view?usp=sharing)
 
@@ -18,7 +18,7 @@
 [![My Programming Languages](https://skillicons.dev/icons?i=kotlin,java,js,python,cpp,html,css,bash)](https://skillicons.dev)
 
 ### Development Frameworks and Libraries 🛠 
-[![My Development Frameworks](https://skillicons.dev/icons?i=androidstudio,spring,nginx,redis,kafka)](https://skillicons.dev)
+[![My Development Frameworks](https://skillicons.dev/icons?i=androidstudio,spring,graphql,nginx,redis,kafka)](https://skillicons.dev)
 
 ### Databases and Cloud Platforms 🛠 
 [![My Databases and Cloud Platforms](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,firebase)](https://skillicons.dev)
