@@ -18,7 +18,7 @@
 [![My Programming Languages](https://skillicons.dev/icons?i=kotlin,java,js,python,cpp,html,css,bash)](https://skillicons.dev)
 
 ### Development Frameworks and Libraries 🛠 
-[![My Development Frameworks](https://skillicons.dev/icons?i=androidstudio,spring,graphql,nginx,redis,kafka)](https://skillicons.dev)
+[![My Development Frameworks](https://skillicons.dev/icons?i=androidstudio,apollo,ktor,spring,graphql,nginx,redis,kafka)](https://skillicons.dev)
 
 ### Databases and Cloud Platforms 🛠 
 [![My Databases and Cloud Platforms](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,firebase)](https://skillicons.dev)
