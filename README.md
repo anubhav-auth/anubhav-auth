@@ -48,10 +48,10 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 05 August 2024 - To: 03 December 2024
+From: 05 August 2024 - To: 04 December 2024
 
-Kotlin            44 hrs 29 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.05 %
-Other             34 hrs 5 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.29 %
+Kotlin            44 hrs 41 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.66 %
+Other             37 hrs 6 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.09 %
 ```
 
 <!--END_SECTION:waka-->
