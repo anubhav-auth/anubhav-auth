@@ -1,39 +1,38 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   schedule:
     # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    - cron: "30 19 * * *"
 
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-        # this action name
-      - uses: athul/waka-readme@master # do NOT replace with anything else
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           ### content
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
-          CODE_LANG: rust # optional
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: false # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML TOML # optional
+          SECTION_NAME: waka
+          SYMBOL_VERSION: 1
+          # CODE_LANG: rust # optional
+          # TIME_RANGE: last_7_days # optional
+          # LANG_COUNT: 10 # optional
+          SHOW_LINES_OF_CODE: true
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_COMMIT: true
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_LANGUAGE: true
+          SHOW_OS: true
+          SHOW_PROJECTS: true
+          SHOW_TIMEZONE: true
+          SHOW_EDITORS: true
+          SHOW_LANGUAGE_PER_REPO: true
+          SHOW_SHORT_INFO: true
           ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: master # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: anubhav jaiswal # optional
-          AUTHOR_EMAIL: anubhavjaiswal2002@gmail.com # optional
-          # you can populate email-id with secrets instead
+          COMMIT_BY_ME: true
+          COMMIT_MESSAGE: Updated with Dev Metrics
+          COMMIT_EMAIL: action-bot@github.com
