@@ -1,13 +1,13 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=3700&lines=Code,+coffee,+and+creativity+inside!;Namaste🙏+I'm+Anubhav;Explore,+fork,+star,+and+repeat!;" />
 </h1>
-<h3 align="center">Android Developer | Front-End Developer | Passionate About Exploring Cutting-Edge Technologies</h3>
+<h3 align="center">Android Developer | Full-Stack Developer | Passionate About Exploring Cutting-Edge Technologies</h3>
 <hr/>
 
 
 ### About Me
  #### 🧠 **Second-year tech enthusiast chasing a Bachelor's in Computer Science and Engineering.**
- #### 🌱 **Currently Learning**: Python libraries & Machine learning
+ #### 🌱 **Currently Learning**: Rust & Blockchain Technologies
  #### ⚡ **Fun Fact**: I love to play Games & Solve DSA Problems
  #### 📄 Know about my work [Resume](https://github.com/anubhav-auth/anubhav-auth/blob/main/Assets/Resume.pdf)
 
