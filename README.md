@@ -46,13 +46,13 @@
 </a><br><br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 346.4 kB Used in GitHub's Storage 
  > 
-> 🏆 477 Contributions in the Year 2024
+> 🏆 479 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -66,11 +66,10 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    28 hrs 33 mins      ████████████████████████░   94.62 % 
-HTML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-Image (svg)              26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-Rust                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Other                    28 hrs 35 mins      ████████████████████████░   96.94 % 
+HTML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Rust                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -90,7 +89,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/anubhav-auth/anubhav-auth/main/assets/bar_graph.png)
 
 
- Last Updated on 17/12/2024 12:42:01 UTC
+ Last Updated on 18/12/2024 12:40:16 UTC
 <!--END_SECTION:waka-->
 
 
