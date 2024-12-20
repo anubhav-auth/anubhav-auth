@@ -52,7 +52,7 @@
 
 > 📦 346.4 kB Used in GitHub's Storage 
  > 
-> 🏆 479 Contributions in the Year 2024
+> 🏆 487 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -66,8 +66,8 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    31 hrs 46 mins      ████████████████████████░   97.74 % 
-HTML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Other                    32 hrs 30 mins      ████████████████████████░   97.58 % 
+HTML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -87,7 +87,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/anubhav-auth/anubhav-auth/main/assets/bar_graph.png)
 
 
- Last Updated on 19/12/2024 12:40:10 UTC
+ Last Updated on 20/12/2024 12:37:32 UTC
 <!--END_SECTION:waka-->
 
 
