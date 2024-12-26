@@ -46,7 +46,7 @@
 </a><br><br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
@@ -66,8 +66,8 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    25 hrs 41 mins      ████████████████████████░   96.43 % 
-HTML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Other                    28 hrs 32 mins      ████████████████████████░   96.78 % 
+HTML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -87,7 +87,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/anubhav-auth/anubhav-auth/main/assets/bar_graph.png)
 
 
- Last Updated on 25/12/2024 12:36:43 UTC
+ Last Updated on 26/12/2024 12:37:41 UTC
 <!--END_SECTION:waka-->
 
 
