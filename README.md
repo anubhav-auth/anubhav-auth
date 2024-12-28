@@ -46,17 +46,17 @@
 </a><br><br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 346.5 kB Used in GitHub's Storage 
  > 
-> 🏆 493 Contributions in the Year 2024
+> 🏆 497 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 35 Public Repositories 
  > 
 > 🔑 11 Private Repositories 
  > 
@@ -66,8 +66,8 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    27 hrs 13 mins      ████████████████████████░   96.87 % 
-HTML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Other                    31 hrs 4 mins       █████████████████████████   98.39 % 
+HTML                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -87,7 +87,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/anubhav-auth/anubhav-auth/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2024 12:36:51 UTC
+ Last Updated on 28/12/2024 12:35:19 UTC
 <!--END_SECTION:waka-->
 
 
