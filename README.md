@@ -52,7 +52,7 @@
 
 > 📦 349.7 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2025
+> 🏆 8 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -60,21 +60,8 @@
  > 
 > 🔑 11 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Kotlin                   51 hrs 27 mins      ████████████████████████░   97.04 % 
-Rust                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-Markdown                 35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-HTML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
- Last Updated on 04/01/2025 12:16:22 UTC
+ Last Updated on 04/01/2025 12:18:46 UTC
 <!--END_SECTION:waka-->
 
 
