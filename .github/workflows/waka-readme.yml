@@ -27,7 +27,7 @@ jobs:
           SHOW_PROJECTS: false
           SHOW_TIMEZONE: true
           SHOW_EDITORS: false
-          SHOW_LANGUAGE_PER_REPO: true
+          SHOW_LANGUAGE_PER_REPO: false
           SHOW_LOC_CHART: false
           # SHOW_SHORT_INFO: true
           ### commit
