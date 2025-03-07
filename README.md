@@ -9,7 +9,7 @@
  #### 🧠 **Second-year tech enthusiast chasing a Bachelor's in Computer Science and Engineering.**
  #### 🌱 **Currently Learning**: Rust & Blockchain Technologies
  #### ⚡ **Fun Fact**: I love to play Games & Solve DSA Problems
- #### 📄 Know about my work [Resume](https://drive.google.com/file/d/1cRoCjcwDc-qaKLdhCqLkkY-EeN94_ZPU/view?usp=drivesdk)
+ #### 📄 Know about my work [Resume](https://drive.google.com/file/d/1cRoCjcwDc-qaKLdhCqLkkY-EeN94_ZPU/view?usp=drivesdk) 
 
 <br/>
 <hr/>
