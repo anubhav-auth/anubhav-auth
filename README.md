@@ -73,3 +73,6 @@
   <img alt="github-snake" src="https://github.com/anubhav-auth/anubhav-auth/blob/output/github-contribution-grid-snake.gif" />
 </picture>
 </div>
+<!-- Runner.prototype.gameOver = function name(params) {
+    false
+} -->
