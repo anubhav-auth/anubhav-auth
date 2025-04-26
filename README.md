@@ -50,7 +50,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 355.8 kB Used in GitHub's Storage 
+> 📦 439.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 260 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -59,7 +61,7 @@
 > 🔑 12 Private Repositories 
  > 
 
- Last Updated on 25/04/2025 12:41:22 UTC
+ Last Updated on 26/04/2025 12:37:14 UTC
 <!--END_SECTION:waka--> 
 
 
