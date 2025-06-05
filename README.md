@@ -46,11 +46,13 @@
 </a><br><br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 454.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 426 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -59,7 +61,7 @@
 > 🔑 13 Private Repositories 
  > 
 
- Last Updated on 01/06/2025 12:40:21 UTC
+ Last Updated on 05/06/2025 12:45:01 UTC
 <!--END_SECTION:waka--> 
 
 
