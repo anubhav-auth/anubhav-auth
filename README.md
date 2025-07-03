@@ -9,7 +9,7 @@
  #### 🧠 **Second-year tech enthusiast chasing a Bachelor's in Computer Science and Engineering.**
  #### 🌱 **Currently Learning**: Rust, Blockchian and Ai/Ml
  #### ⚡ **Fun Fact**: I love to play Games & Solve DSA Problems
- #### 📄 Know about my work [Resume](https://drive.google.com/file/d/1So4JWc_fnFm8nJ_JTezUIzhEfX4gf2Om/view)
+ #### 📄 Know about my work [Resume](https://drive.google.com/file/d/1HYhoRmG4z5jrakxIfWLeLpQO7CNqwwSY/view)
 
 <br/>
 <hr/>
