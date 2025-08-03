@@ -1,0 +1,32 @@
+name: Reusable Notebook Output Stripper
+
+on:
+  workflow_call: {}  # Enables reusability
+
+jobs:
+  clean_notebooks:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install tools
+        run: pip install nbstripout jupyter
+
+      - name: Strip notebook outputs
+        run: |
+          find . -name '*.ipynb' -exec jupyter nbconvert --ClearOutputPreprocessor.enabled=True --inplace --clear-output {} \;
+
+      - name: Commit cleaned notebooks
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --cached --quiet || git commit -m "chore: auto-strip notebook outputs"
+          git push || echo "No changes to commit"
