@@ -37,9 +37,22 @@
 
 ![](https://komarev.com/ghpvc/?username=anubhav-auth)
 
-<img src="https://github-readme-stats.vercel.app/api?username=anubhav-auth&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="anubhav-auth's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-auth&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="anubhav-auth's GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=anubhav-auth&theme=gruvbox&hide_border=true" alt="anubhav-auth's GitHub Stats" />
+<div align="center">
+
+  <!-- First Row: GitHub Stats and Top Languages -->
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=anubhav-auth&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="anubhav-auth's GitHub Stats" />
+    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-auth&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="anubhav-auth's Top Languages" />
+    
+  </div>
+
+  <!-- Second Row: GitHub Streak Stats -->
+  <br />
+  <img src="https://streak-stats.demolab.com?user=anubhav-auth&theme=gruvbox&hide_border=true" alt="anubhav-auth's GitHub Streak Stats" />
+
+</div>
+
 
 <!--START_SECTION:waka-->
 
