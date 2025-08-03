@@ -34,19 +34,14 @@
 
 <br/>
 <h2 align="center"> Github Statistics 📈</h2>
- 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhav-auth&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-auth&layout=compact&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=anubhav-auth&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</a><br><br>
+
+![](https://komarev.com/ghpvc/?username=anubhav-auth)
+
+<img src="https://github-readme-stats.vercel.app/api?username=anubhav-auth&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="anubhav-auth's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-auth&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="anubhav-auth's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=anubhav-auth&theme=gruvbox&hide_border=true" alt="anubhav-auth's GitHub Stats" />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
 **🐱 My GitHub Data** 
 
