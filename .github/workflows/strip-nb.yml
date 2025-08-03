@@ -1,7 +1,10 @@
 name: Reusable Notebook Output Stripper
 
 on:
-  workflow_call: {}  # Enables reusability
+  workflow_call: {}  # Enables other repos to call this workflow
+
+permissions:
+  contents: write  # Needed to commit and push back changes
 
 jobs:
   clean_notebooks:
@@ -17,7 +20,8 @@ jobs:
           python-version: '3.10'
 
       - name: Install tools
-        run: pip install nbstripout jupyter
+        run: |
+          pip install nbstripout jupyter
 
       - name: Strip notebook outputs
         run: |
@@ -25,8 +29,8 @@ jobs:
 
       - name: Commit cleaned notebooks
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add .
           git diff --cached --quiet || git commit -m "chore: auto-strip notebook outputs"
-          git push || echo "No changes to commit"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:master
