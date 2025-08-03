@@ -29,6 +29,7 @@ jobs:
           SHOW_EDITORS: false
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_LOC_CHART: false
+          SHOW_PROFILE_VIEWS: false
           # SHOW_SHORT_INFO: true
           ### commit
           # COMMIT_BY_ME: true
