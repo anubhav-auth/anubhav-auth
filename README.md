@@ -6,13 +6,114 @@
 
 
 ### About Me
- #### 🧠 **Second-year tech enthusiast chasing a Bachelor's in Computer Science and Engineering.**
- #### 🌱 **Currently Learning**: Rust, Blockchian and Ai/Ml
- #### ⚡ **Fun Fact**: I love to play Games & Solve DSA Problems
- #### 📄 Know about my work [Resume](https://drive.google.com/file/d/1HYhoRmG4z5jrakxIfWLeLpQO7CNqwwSY/view)
+
+Third-year Computer Science student specializing in building scalable backend systems and modern Android applications. My work focuses on applying microservice architecture patterns with Spring Boot and creating robust, user-centric mobile experiences with Kotlin and Jetpack Compose. I am actively seeking **Backend or Android Software Engineering Internships** where I can contribute to solving complex problems and enhance my skills in a professional environment.
+
+-   🧠 **Core Interests:** Distributed Systems, Clean Architecture, Mobile UI/UX.
+
+-   🌱 **Currently Exploring:** Advanced Rust for systems programming and deeper applications of AI/ML.
+
+-   Know about my work [Resume](https://drive.google.com/file/d/1HYhoRmG4z5jrakxIfWLeLpQO7CNqwwSY/view)
+
+Featured Projects
+-----------------
+
+*These are the highlights of my work. Please feel free to explore the codebases.*
+
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🛍️ Loqal - Microservices E-Commerce Platform</h3>
+
+<p>A complete 7-service microservices platform simulating an e-commerce backend. It features an API Gateway, service discovery, and ensures data consistency across services using an event-driven SAGA pattern for resilient, distributed transactions.</p>
+
+<p>
+
+<strong>Tech Stack:</strong>
 
 <br/>
-<hr/>
+
+<code>Spring Boot</code> <code>Java</code> <code>Kafka</code> <code>Docker</code> <code>PostgreSQL</code> <code>Redis</code> <code>Kong API Gateway</code>
+
+</p>
+
+<a href="https://github.com/anubhav-auth/loqal" target="_blank">View Repository &rarr;</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📚 Bookpedia - KMM Cross-Platform App</h3>
+
+<p>A book search and discovery application for Android, iOS, and Desktop built from a single codebase using Kotlin Multiplatform (KMM) and Compose Multiplatform. This project demonstrates a clean architecture with shared business logic and UI components.</p>
+
+<p>
+
+<strong>Tech Stack:</strong>
+
+<br/>
+
+<code>Kotlin</code> <code>Jetpack Compose</code> <code>KMM</code> <code>Android</code> <code>Ktor</code> <code>SQLDelight</code> <code>Clean Architecture</code>
+
+</p>
+
+<a href="https://github.com/anubhav-auth/bookpedia" target="_blank">View Repository &rarr;</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>💬 Real-Time Android Chat App</h3>
+
+<p>A real-time, offline-first Android chat application built with modern Android development principles. It uses GraphQL Subscriptions for instant message delivery and a Room database to ensure message history is always available.</p>
+
+<p>
+
+<strong>Tech Stack:</strong>
+
+<br/>
+
+<code>Kotlin</code> <code>Jetpack Compose</code> <code>GraphQL</code> <code>Apollo</code> <code>RoomDB</code> <code>MVVM</code> <code>Offline-First</code>
+
+</p>
+
+<a href="https://github.com/anubhav-auth/real-time-chat-application" target="_blank">View Repository &rarr;</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🤖 InvestorIQ - RAG Financial Agent</h3>
+
+<p>An AI-powered financial agent that uses a Retrieval-Augmented Generation (RAG) pipeline with LangChain and a vector database to answer queries based on a corpus of financial news articles. This demonstrates practical application of modern AI/ML techniques.</p>
+
+<p>
+
+<strong>Tech Stack:</strong>
+
+<br/>
+
+<code>Python</code> <code>LangChain</code> <code>LLMs</code> <code>Vector DB</code> <code>FastAPI</code> <code>RAG</code>
+
+</p>
+
+<a href="https://github.com/anubhav-auth/investoriq" target="_blank">View Repository &rarr;</a>
+
+</td>
+
+</tr>
+
+</table>
+
+Core Technologies
+-----------------
 
 ### Languages 🛠 
 [![My Programming Languages](https://skillicons.dev/icons?i=kotlin,java,rust,js,python,cpp,html,css,bash)](https://skillicons.dev)
