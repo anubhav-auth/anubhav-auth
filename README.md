@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=3700&lines=Code,+coffee,+and+creativity+inside!;Namaste🙏+I'm+Anubhav;Explore,+fork,+star,+and+repeat!;" /> 
 </h1>
-<h3 align="center">Android | Full-Stack Developer | Solana, Rust & DevOps Enthusiast | Building scalable solutions.</h3> 
+<h3 align="center">Backend & Android Developer | Distributed Systems & Mobile Engineering</h3> 
 <hr/>
 
 
@@ -9,7 +9,7 @@
 
 Third-year Computer Science student specializing in building scalable backend systems and modern Android applications. My work focuses on applying microservice architecture patterns with Spring Boot and creating robust, user-centric mobile experiences with Kotlin and Jetpack Compose. I am actively seeking **Backend or Android Software Engineering Internships** where I can contribute to solving complex problems and enhance my skills in a professional environment.
 
--   🧠 **Core Interests:** Distributed Systems, Clean Architecture, Mobile UI/UX.
+-   🧠 **Core Interests:** Distributed Systems, Clean Architecture, Mobile.
 
 -   🌱 **Currently Exploring:** Advanced Rust for systems programming and deeper applications of AI/ML.
 
