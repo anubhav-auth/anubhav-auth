@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=3700&lines=Hey+there!+I'm+Anubhav+👋;Backend+%26+Android+Engineer;I+build+things+that+scale.;Explore,+fork,+star,+and+repeat!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=3700&lines=Hey+there!+I'm+Anubhav;Backend+%26+Android+Engineer;I+build+things+that+scale.;Explore,+fork,+star,+and+repeat!;" />
 </h1>
 
-<h3 align="center">Backend Engineer · Android Developer · Distributed Systems · Mobile</h3>
+<h3 align="center">Backend Engineer &nbsp;·&nbsp; Android Developer &nbsp;·&nbsp; Distributed Systems &nbsp;·&nbsp; Mobile</h3>
 
 <p align="center">
   <a href="https://anubhav-auth.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-anubhav--auth.me-orange?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
@@ -13,41 +13,43 @@
 
 <hr/>
 
-## 👨‍💻 About Me
+## About Me
 
-Final-year Computer Science student with **production experience** building distributed backend systems and modern Android applications. I've architected microservice migrations from monoliths, built real-time data pipelines, and shipped cross-platform mobile apps — all at scale.
+Final-year Computer Science student with **production experience** building distributed backend systems and modern Android applications. I have architected microservice migrations from monoliths, built real-time data pipelines, and shipped cross-platform mobile apps — all at scale.
 
-- 🏗️ **Currently Building:** [Synq](https://github.com/anubhav-auth/synq) — a blazing-fast, zero-downtime database migration CLI tool written in Go, benchmarked at **192,493 rows/sec**
-- 🧠 **Core Interests:** Distributed Systems, Clean Architecture, Mobile Engineering, Developer Tooling
-- 🌱 **Currently Exploring:** Systems programming with Rust, Solana/blockchain development, AI agent systems
-- 💼 **Open To:** Full-time Backend or Android SWE roles (India / EU / Remote)
+- **Currently Building:** [Synq](https://github.com/anubhav-auth/synq) — a zero-downtime database migration CLI tool in Go, benchmarked at **192,493 rows/sec**
+- **Core Interests:** Distributed Systems, Clean Architecture, Mobile Engineering, Developer Tooling
+- **Currently Exploring:** Systems programming with Rust, Solana/blockchain development, AI agent systems
+- **Open To:** Full-time Backend or Android SWE roles (India / EU / Remote)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
 
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Synq — Database Migration Engine
+### Synq — Database Migration Engine
+
 A **production-grade, single-binary CLI tool** for zero-downtime database migrations written in Go. Features streaming pipelines (no disk I/O), automatic FK dependency resolution via topological sort, a Dead Letter Queue for resilient failure handling, and a built-in PII auditor.
 
-> 🏆 **192,493 rows/sec** (MySQL → PostgreSQL, 200k row dataset)
+> **192,493 rows/sec** — MySQL to PostgreSQL, 200k row dataset
 
 **Tech Stack:**
-`Go` `PostgreSQL` `MySQL` `MongoDB` `SQLite` `CLI` `Streaming Pipelines`
+`Go` `PostgreSQL` `MySQL` `MongoDB` `SQLite` `Streaming Pipelines`
 
 <a href="https://github.com/anubhav-auth/synq">View Repository →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🛍️ Loqal — Microservices E-Commerce Platform
+### Loqal — Microservices E-Commerce Platform
+
 A complete **7-service microservices backend** for e-commerce. Implements an event-driven SAGA choreography pattern to guarantee distributed transaction consistency without 2PC overhead. Features a Kong API Gateway, Eureka service discovery, and per-service PostgreSQL databases.
 
-> 🔑 **Zero 2PC overhead** — SAGA choreography over Kafka for resilient distributed transactions
+> **Zero 2PC overhead** — SAGA choreography over Kafka for resilient distributed transactions
 
 **Tech Stack:**
 `Spring Boot` `Java` `Kafka` `Docker` `PostgreSQL` `Redis` `Kong API Gateway`
@@ -60,10 +62,11 @@ A complete **7-service microservices backend** for e-commerce. Implements an eve
 <tr>
 <td width="50%" valign="top">
 
-### 🎟️ Venue — Event & Seat Management System
+### Venue — Event & Seat Management System
+
 A full-stack event management platform with **QR-code-based check-in**, dynamic seat allocation, and real-time capacity tracking. Built to handle concurrent bookings without race conditions using optimistic locking and transactional guarantees.
 
-> 🎯 **Handles concurrent bookings** with optimistic locking and zero double-allocation
+> **Concurrent-safe bookings** — optimistic locking with zero double-allocation
 
 **Tech Stack:**
 `Spring Boot` `Java` `PostgreSQL` `React` `QR Scanning` `WebSocket`
@@ -73,10 +76,11 @@ A full-stack event management platform with **QR-code-based check-in**, dynamic 
 </td>
 <td width="50%" valign="top">
 
-### 📚 Bookpedia — KMM Cross-Platform App
-A book search and discovery app for **Android, iOS, and Desktop** from a single Kotlin codebase using Kotlin Multiplatform. Clean architecture with shared business logic and Compose Multiplatform UI — a real demonstration of write-once, run-anywhere mobile engineering.
+### Bookpedia — KMM Cross-Platform App
 
-> 📱 **One codebase → 3 platforms** with shared UI and business logic via KMM
+A book search and discovery app for **Android, iOS, and Desktop** from a single Kotlin codebase using Kotlin Multiplatform. Clean architecture with shared business logic and Compose Multiplatform UI.
+
+> **One codebase → 3 platforms** — shared UI and business logic via KMM
 
 **Tech Stack:**
 `Kotlin` `Jetpack Compose` `KMM` `Ktor` `SQLDelight` `Clean Architecture`
@@ -89,10 +93,11 @@ A book search and discovery app for **Android, iOS, and Desktop** from a single 
 <tr>
 <td width="50%" valign="top">
 
-### 💬 Real-Time Android Chat App
-An **offline-first Android chat application** with real-time message delivery. Uses GraphQL Subscriptions via Apollo for push-based instant messaging, and Room DB for local persistence — messages are always available, even without internet.
+### Real-Time Android Chat App
 
-> 🔄 **Offline-first** — Room DB sync ensures zero data loss on reconnect
+An **offline-first Android chat application** with real-time message delivery. Uses GraphQL Subscriptions via Apollo for push-based instant messaging and Room DB for local persistence — messages remain available without internet.
+
+> **Offline-first** — Room DB sync ensures zero data loss on reconnect
 
 **Tech Stack:**
 `Kotlin` `Jetpack Compose` `GraphQL` `Apollo` `RoomDB` `MVVM`
@@ -102,10 +107,11 @@ An **offline-first Android chat application** with real-time message delivery. U
 </td>
 <td width="50%" valign="top">
 
-### 🤖 InvestorIQ — RAG Financial Agent
-An **AI-powered financial agent** using a Retrieval-Augmented Generation pipeline. Queries a corpus of financial news articles via a vector database to answer domain-specific questions with grounded, source-cited responses — no hallucinations.
+### InvestorIQ — RAG Financial Agent
 
-> 🧠 **Grounded responses** — RAG over vector DB eliminates LLM hallucinations on financial data
+An **AI-powered financial agent** using a Retrieval-Augmented Generation pipeline. Queries a corpus of financial news articles via a vector database to answer domain-specific questions with grounded, source-cited responses.
+
+> **Grounded responses** — RAG over vector DB eliminates hallucinations on financial data
 
 **Tech Stack:**
 `Python` `LangChain` `LLMs` `Vector DB` `FastAPI` `RAG`
@@ -119,7 +125,7 @@ An **AI-powered financial agent** using a Retrieval-Augmented Generation pipelin
 
 ---
 
-## 🛠️ Core Technologies
+## Core Technologies
 
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=kotlin,java,go,rust,python,js,cpp,bash)](https://skillicons.dev)
@@ -135,7 +141,7 @@ An **AI-powered financial agent** using a Retrieval-Augmented Generation pipelin
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anubhav-auth&style=for-the-badge&color=orange" alt="Profile Views" />
@@ -155,17 +161,17 @@ An **AI-powered financial agent** using a Retrieval-Augmented Generation pipelin
 ---
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
+**My GitHub Data** 
 
-> 📦 676.9 kB Used in GitHub's Storage 
+> 676.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,367 Contributions in the Year 2026
+> 1,367 Contributions in the Year 2026
  > 
-> 💼 Opted to Hire
+> Opted to Hire
  > 
-> 📜 69 Public Repositories 
+> 69 Public Repositories 
  > 
-> 🔑 19 Private Repositories 
+> 19 Private Repositories 
  > 
 
  Last Updated on 10/04/2026 13:17:56 UTC
@@ -174,7 +180,7 @@ An **AI-powered financial agent** using a Retrieval-Augmented Generation pipelin
 ---
 
 <div align="center">
-  <h2>🐍 Contribution Snake</h2>
+  <h3>Contribution Graph</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/anubhav-auth/anubhav-auth/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/anubhav-auth/anubhav-auth/blob/output/github-contribution-grid-snake.svg" />
@@ -185,7 +191,7 @@ An **AI-powered financial agent** using a Retrieval-Augmented Generation pipelin
 ---
 
 <p align="center">
-  <i>⚡ "First, make it work. Then, make it right. Then, make it fast." — Kent Beck</i>
+  <i>"First, make it work. Then, make it right. Then, make it fast." — Kent Beck</i>
 </p>
 
 <!-- Runner.prototype.gameOver = function name(params) {
