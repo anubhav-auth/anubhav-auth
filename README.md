@@ -144,25 +144,20 @@ An **AI-powered financial agent** using a Retrieval-Augmented Generation pipelin
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anubhav-auth&style=for-the-badge&color=orange" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=anubhav-auth&style=for-the-badge&color=orange" />
 </p>
 
-<table width="100%" align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=anubhav-auth&theme=gruvbox&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-auth&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&cache_seconds=86400" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anubhav-auth&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anubhav-auth&theme=gruvbox&layout=compact&hide_border=true" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=anubhav-auth&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anubhav-auth&theme=gruvbox&hide_border=true&v=1" />
+</p>
 
 ---
 
