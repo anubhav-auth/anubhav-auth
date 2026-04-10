@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://anubhav-auth.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-anubhav--auth.me-orange?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://github.com/anubhav-auth/anubhav-auth/raw/main/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="https://github.com/anubhav-auth/anubhav-auth/blob/main/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
   <a href="mailto:anubhavauth@gmail.com"><img src="https://img.shields.io/badge/Email-anubhavauth%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/anubhavauth" target="_blank"><img src="https://img.shields.io/badge/Twitter-%40anubhavauth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
