@@ -1,159 +1,158 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=3700&lines=Code,+coffee,+and+creativity+inside!;Namaste🙏+I'm+Anubhav;Explore,+fork,+star,+and+repeat!;" /> 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=3700&lines=Hey+there!+I'm+Anubhav+👋;Backend+%26+Android+Engineer;I+build+things+that+scale.;Explore,+fork,+star,+and+repeat!;" />
 </h1>
-<h3 align="center">Backend & Android Developer | Distributed Systems & Mobile Engineering</h3> 
+
+<h3 align="center">Backend Engineer · Android Developer · Distributed Systems · Mobile</h3>
+
+<p align="center">
+  <a href="https://anubhav-auth.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-anubhav--auth.me-orange?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1HYhoRmG4z5jrakxIfWLeLpQO7CNqwwSY/view" target="_blank"><img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <a href="mailto:anubhavauth@gmail.com"><img src="https://img.shields.io/badge/Email-anubhavauth%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/anubhavauth" target="_blank"><img src="https://img.shields.io/badge/Twitter-%40anubhavauth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
 <hr/>
 
+## 👨‍💻 About Me
 
-### About Me
+Final-year Computer Science student with **production experience** building distributed backend systems and modern Android applications. I've architected microservice migrations from monoliths, built real-time data pipelines, and shipped cross-platform mobile apps — all at scale.
 
-Third-year Computer Science student specializing in building scalable backend systems and modern Android applications. My work focuses on applying microservice architecture patterns with Spring Boot and creating robust, user-centric mobile experiences with Kotlin and Jetpack Compose. I am actively seeking **Backend or Android Software Engineering Internships** where I can contribute to solving complex problems and enhance my skills in a professional environment.
+- 🏗️ **Currently Building:** [Synq](https://github.com/anubhav-auth/synq) — a blazing-fast, zero-downtime database migration CLI tool written in Go, benchmarked at **192,493 rows/sec**
+- 🧠 **Core Interests:** Distributed Systems, Clean Architecture, Mobile Engineering, Developer Tooling
+- 🌱 **Currently Exploring:** Systems programming with Rust, Solana/blockchain development, AI agent systems
+- 💼 **Open To:** Full-time Backend or Android SWE roles (India / EU / Remote)
 
--   🧠 **Core Interests:** Distributed Systems, Clean Architecture, Mobile.
+---
 
--   🌱 **Currently Exploring:** Advanced Rust for systems programming and deeper applications of AI/ML.
-
--   Know about my work [Resume](https://drive.google.com/file/d/1HYhoRmG4z5jrakxIfWLeLpQO7CNqwwSY/view)
-
-Featured Projects
------------------
-
-*These are the highlights of my work. Please feel free to explore the codebases.*
+## 🚀 Featured Projects
 
 <table width="100%">
 
 <tr>
-
 <td width="50%" valign="top">
 
-<h3>🛍️ Loqal - Microservices E-Commerce Platform</h3>
+### ⚡ Synq — Database Migration Engine
+A **production-grade, single-binary CLI tool** for zero-downtime database migrations written in Go. Features streaming pipelines (no disk I/O), automatic FK dependency resolution via topological sort, a Dead Letter Queue for resilient failure handling, and a built-in PII auditor.
 
-<p>A complete 7-service microservices platform simulating an e-commerce backend. It features an API Gateway, service discovery, and ensures data consistency across services using an event-driven SAGA pattern for resilient, distributed transactions.</p>
+> 🏆 **192,493 rows/sec** (MySQL → PostgreSQL, 200k row dataset)
 
-<p>
+**Tech Stack:**
+`Go` `PostgreSQL` `MySQL` `MongoDB` `SQLite` `CLI` `Streaming Pipelines`
 
-<strong>Tech Stack:</strong>
-
-<br/>
-
-<code>Spring Boot</code> <code>Java</code> <code>Kafka</code> <code>Docker</code> <code>PostgreSQL</code> <code>Redis</code> <code>Kong API Gateway</code>
-
-</p>
-
-<a href="https://github.com/anubhav-auth/loqal" target="_blank">View Repository &rarr;</a>
+<a href="https://github.com/anubhav-auth/synq">View Repository →</a>
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>📚 Bookpedia - KMM Cross-Platform App</h3>
+### 🛍️ Loqal — Microservices E-Commerce Platform
+A complete **7-service microservices backend** for e-commerce. Implements an event-driven SAGA choreography pattern to guarantee distributed transaction consistency without 2PC overhead. Features a Kong API Gateway, Eureka service discovery, and per-service PostgreSQL databases.
 
-<p>A book search and discovery application for Android, iOS, and Desktop built from a single codebase using Kotlin Multiplatform (KMM) and Compose Multiplatform. This project demonstrates a clean architecture with shared business logic and UI components.</p>
+> 🔑 **Zero 2PC overhead** — SAGA choreography over Kafka for resilient distributed transactions
 
-<p>
+**Tech Stack:**
+`Spring Boot` `Java` `Kafka` `Docker` `PostgreSQL` `Redis` `Kong API Gateway`
 
-<strong>Tech Stack:</strong>
-
-<br/>
-
-<code>Kotlin</code> <code>Jetpack Compose</code> <code>KMM</code> <code>Android</code> <code>Ktor</code> <code>SQLDelight</code> <code>Clean Architecture</code>
-
-</p>
-
-<a href="https://github.com/anubhav-auth/bookpedia" target="_blank">View Repository &rarr;</a>
+<a href="https://github.com/anubhav-auth/loqal">View Repository →</a>
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-<h3>💬 Real-Time Android Chat App</h3>
+### 🎟️ Venue — Event & Seat Management System
+A full-stack event management platform with **QR-code-based check-in**, dynamic seat allocation, and real-time capacity tracking. Built to handle concurrent bookings without race conditions using optimistic locking and transactional guarantees.
 
-<p>A real-time, offline-first Android chat application built with modern Android development principles. It uses GraphQL Subscriptions for instant message delivery and a Room database to ensure message history is always available.</p>
+> 🎯 **Handles concurrent bookings** with optimistic locking and zero double-allocation
 
-<p>
+**Tech Stack:**
+`Spring Boot` `Java` `PostgreSQL` `React` `QR Scanning` `WebSocket`
 
-<strong>Tech Stack:</strong>
-
-<br/>
-
-<code>Kotlin</code> <code>Jetpack Compose</code> <code>GraphQL</code> <code>Apollo</code> <code>RoomDB</code> <code>MVVM</code> <code>Offline-First</code>
-
-</p>
-
-<a href="https://github.com/anubhav-auth/real-time-chat-application" target="_blank">View Repository &rarr;</a>
+<a href="https://github.com/anubhav-auth/Venue">View Repository →</a>
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>🤖 InvestorIQ - RAG Financial Agent</h3>
+### 📚 Bookpedia — KMM Cross-Platform App
+A book search and discovery app for **Android, iOS, and Desktop** from a single Kotlin codebase using Kotlin Multiplatform. Clean architecture with shared business logic and Compose Multiplatform UI — a real demonstration of write-once, run-anywhere mobile engineering.
 
-<p>An AI-powered financial agent that uses a Retrieval-Augmented Generation (RAG) pipeline with LangChain and a vector database to answer queries based on a corpus of financial news articles. This demonstrates practical application of modern AI/ML techniques.</p>
+> 📱 **One codebase → 3 platforms** with shared UI and business logic via KMM
 
-<p>
+**Tech Stack:**
+`Kotlin` `Jetpack Compose` `KMM` `Ktor` `SQLDelight` `Clean Architecture`
 
-<strong>Tech Stack:</strong>
-
-<br/>
-
-<code>Python</code> <code>LangChain</code> <code>LLMs</code> <code>Vector DB</code> <code>FastAPI</code> <code>RAG</code>
-
-</p>
-
-<a href="https://github.com/anubhav-auth/investoriq" target="_blank">View Repository &rarr;</a>
+<a href="https://github.com/anubhav-auth/bookpedia">View Repository →</a>
 
 </td>
+</tr>
 
+<tr>
+<td width="50%" valign="top">
+
+### 💬 Real-Time Android Chat App
+An **offline-first Android chat application** with real-time message delivery. Uses GraphQL Subscriptions via Apollo for push-based instant messaging, and Room DB for local persistence — messages are always available, even without internet.
+
+> 🔄 **Offline-first** — Room DB sync ensures zero data loss on reconnect
+
+**Tech Stack:**
+`Kotlin` `Jetpack Compose` `GraphQL` `Apollo` `RoomDB` `MVVM`
+
+<a href="https://github.com/anubhav-auth/real-time-chat-application">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 InvestorIQ — RAG Financial Agent
+An **AI-powered financial agent** using a Retrieval-Augmented Generation pipeline. Queries a corpus of financial news articles via a vector database to answer domain-specific questions with grounded, source-cited responses — no hallucinations.
+
+> 🧠 **Grounded responses** — RAG over vector DB eliminates LLM hallucinations on financial data
+
+**Tech Stack:**
+`Python` `LangChain` `LLMs` `Vector DB` `FastAPI` `RAG`
+
+<a href="https://github.com/anubhav-auth/investoriq">View Repository →</a>
+
+</td>
 </tr>
 
 </table>
 
-Core Technologies
------------------
+---
 
-### Languages 🛠 
-[![My Programming Languages](https://skillicons.dev/icons?i=kotlin,java,rust,js,python,cpp,html,css,bash)](https://skillicons.dev)
+## 🛠️ Core Technologies
 
-### Development Frameworks and Libraries 🛠 
-[![My Development Frameworks](https://skillicons.dev/icons?i=androidstudio,apollo,ktor,spring,graphql,nginx,redis,kafka)](https://skillicons.dev)
+### Languages
+[![Languages](https://skillicons.dev/icons?i=kotlin,java,go,rust,python,js,cpp,bash)](https://skillicons.dev)
 
-### Databases and Cloud Platforms 🛠 
-[![My Databases and Cloud Platforms](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,firebase)](https://skillicons.dev)
+### Backend & Mobile Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=spring,ktor,androidstudio,apollo,graphql,nginx,redis,kafka)](https://skillicons.dev)
 
-### IDEs 🛠 
-[![My IDEs](https://skillicons.dev/icons?i=vscode,androidstudio,idea,pycharm,webstorm)](https://skillicons.dev)
+### Databases & Cloud
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase)](https://skillicons.dev)
 
-### Other Development Tools 🛠 
-[![My Other Development Tools](https://skillicons.dev/icons?i=docker,figma,git,github,postman,blender,linux)](https://skillicons.dev)
- 
+### Dev Tools
+[![Tools](https://skillicons.dev/icons?i=docker,git,github,postman,figma,linux,idea,vscode)](https://skillicons.dev)
 
+---
 
+## 📊 GitHub Statistics
 
-<br/>
-<h2 align="center"> Github Statistics 📈</h2>
-
-![](https://komarev.com/ghpvc/?username=anubhav-auth)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anubhav-auth&style=for-the-badge&color=orange" alt="Profile Views" />
+</p>
 
 <div align="center">
-
-  <!-- First Row: GitHub Stats and Top Languages -->
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=anubhav-auth&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="anubhav-auth's GitHub Stats" />
-    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-auth&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="anubhav-auth's Top Languages" />
-    
-  </div>
-
-  <!-- Second Row: GitHub Streak Stats -->
-  <br />
-  <img src="https://streak-stats.demolab.com?user=anubhav-auth&theme=gruvbox&hide_border=true" alt="anubhav-auth's GitHub Streak Stats" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=anubhav-auth&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-auth&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=anubhav-auth&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
@@ -170,17 +169,25 @@ Core Technologies
  > 
 
  Last Updated on 10/04/2026 13:17:56 UTC
-<!--END_SECTION:waka--> 
+<!--END_SECTION:waka-->
 
+---
 
 <div align="center">
-  <h2>🐱‍👤 My Contributions 🐱‍👤</h2>
+  <h2>🐍 Contribution Snake</h2>
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/anubhav-auth/anubhav-auth/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/anubhav-auth/anubhav-auth/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/anubhav-auth/anubhav-auth/blob/output/github-contribution-grid-snake.gif" />
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/anubhav-auth/anubhav-auth/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/anubhav-auth/anubhav-auth/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/anubhav-auth/anubhav-auth/blob/output/github-contribution-grid-snake.gif" />
+  </picture>
 </div>
+
+---
+
+<p align="center">
+  <i>⚡ "First, make it work. Then, make it right. Then, make it fast." — Kent Beck</i>
+</p>
+
 <!-- Runner.prototype.gameOver = function name(params) {
     false
 } -->
